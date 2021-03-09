@@ -1,0 +1,19 @@
+
+img {
+
+    float:inherit;
+    max-width: 50%;
+      
+   }
+   
+   #container {
+     background-color: rgb(246, 246, 246);
+     float: right;
+     border: solid 1px;
+     border-color: white;
+     grid-column: 2 / 3;
+     grid-row: 2 / 3;
+     border-color: aqua;
+   }
+   
+   
